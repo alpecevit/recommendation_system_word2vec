@@ -129,4 +129,3 @@ cython_debug/
 # data folder
 data
 .DS_Store
-.pickle
